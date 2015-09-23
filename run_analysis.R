@@ -3,7 +3,7 @@
 #first download the data
 fileURL<-"https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
 wd<-getwd()
-setwd("C:\\CourseWork\\GettingandCleaning")
+#setwd("C:\\CourseWork\\GettingandCleaning")
 dest<-".\\Dataset.zip"
 if(!file.exists(dest)) #check if the data exists
 {
