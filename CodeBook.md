@@ -8,6 +8,10 @@ output: html_document
 ##Basic description
 The data included in the dataset includes the average of a number of average and standard deviation variables provided by the samsung dataset.  The data was then averaged per subject and activity that was being performed.
 
+README.txt is the original description of the data.
+
+features_info.txt is the original Code Book for the un processed data. 
+
 ##Data dictionary:
 *Activity.Name: The name of the activity being performed by the subject when the measurements were taken, these can be one of "LAYING","SITTING","STANDING","WALKING","WALKING_UPSTAIRS","WALKING_DOWNSTAIRS"
 
